@@ -10,14 +10,14 @@ sidebar:
     # Profile information
     name: Mathias CHOQUET
     tagline: Teacher and Computer Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: mathias.cv.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
+    email: mathias.choquet@gmail.com
     phone: +33666666666
     timezone: France
     citizenship:
-    website: linkedin.com/in/mathiaschoquet # Include the full website URL, including "http://" or "https://".
+    website: # Include the full website URL, including "http://" or "https://".
     linkedin: mathiaschoquet
     github: MathiasChoquet
     telegram: # add your nickname without '@' sign
@@ -57,200 +57,100 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: Master’s Degree in Human-Computer Interaction (with honors).
+        university: E.N.A.C, Université Toulouse III
+        time: 2004 - 2005
+      - degree: Bachelor's and Master's Degree in Computer Science (with honors).
+        university: Université Paris VII
+        time: 2002–2004
+      - degree: Associate's Degree in Computer Science (with merit).
+        university: Université Paris V
+        time: 2000 - 2002
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Full Stack Developer
+        time: 2018 – 2022
+        company: ACTIA Automotive, Toulouse France
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Updating control units: specifications, design, development, training, and validation of new features.
+            - Java 1.8, Full Stack Spring-Boot/Angular, AngularJS.
+      - role: C++ Developer
+        time: 2010 – 2017
+        company: ACTIA Automotive, Toulouse France
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Diagnostic engine: architecture, design, development, training, internship supervision, and apprenticeship mentorship
+          Diagnostic data editor: design and development.
+          Proposal responses with technical presentations for "General Motors" and "Renault/Nissan".
+            - C++, POCO, Linux, Android, Jenkins.
+            - Java Eclipse Modeling Framework, Perl.
+          
+      - role: C++ Developer
+        time: 2008 - 2009
+        company: APSIDE for Airbus Test & Service
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Project management, architecture, functional specifications, detailed design, development, and automatic validation.
+            - C++, Java TopCased (Eclipse), UML, Python, Squish, XML
+      - role: Java Developer
+        time: 2005 - 2008
+        company: Sogeti for EADS Astrium
+        details: |
+          Enhancing simulation tools and satellite models. Needs analysis and user training.
+            -  Java 1.6, C++, Eclipse, Tomcat – Windows XP, Linux, Solaris.
 
 certifications:
-      title: Certifications
+      title: Teaching
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: SIGMA Master
+          start: 2023
+          end: Today
+          organization: UT2J/ENSAT
+          credentialid: 
+          credentialurl: 
+          credentialname: 
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
+            Design and delivery of courses/labs on VueJS/Git frameworks and Python algorithm introduction courses/labs
+        - name: SSSE Master
+          start: 2022
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: EPITA Toulouse
+          credentialid: 
+          credentialurl: 
+          credentialname: 
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+            Design and delivery of courses/labs on Embedded Cloud with Docker, ActiveMQ, NiFi, SpringBoot, and VueJS (50 hours/year).
+            Supervising final projects and teaching core curriculum: NoSQL, DevOps, Language Etymology (90 hours/year).
+        - name: I.U.T Computer Science
+          start: 2018
+          end:
+          organization: Toulouse III
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+            Design and delivery of HTML5/CSS3 labs and REST API courses in PHP and JavaScript (90 hours/year).
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Teaching, training, and pedagogy
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Design and development
         level: 98%
 
-      - name: Angular
+      - name: Communication and teamwork
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Architecture, specifications, and validation
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Agile methodology (Kanban & Scrum)
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Project management
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
