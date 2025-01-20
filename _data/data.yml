@@ -51,8 +51,9 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: Part-time teacher since 2015, full-time self-employed teacher since 2022.
-18 years of experience in industrial software development in automotive (ACTIA Automotive), aeronautics (CASSIDIAN Test & Service), and aerospace (AIRBUS D&S).
+    summary: |
+        Part-time teacher since 2015, full-time self-employed teacher since 2022.
+        18 years of experience in industrial software development in automotive (ACTIA Automotive), aeronautics (CASSIDIAN Test & Service), and aerospace (AIRBUS D&S).
 education:
     title: Education
     info:
